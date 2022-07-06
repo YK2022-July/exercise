@@ -4,3 +4,5 @@
 * chapter3の課題は「box」リポジトリにて実施
 * chapter4_exercise
   * HTML/CSSを学ぼう 4章
+* chapter5_exercise
+  * HTML/CSSを学ぼう 5章
