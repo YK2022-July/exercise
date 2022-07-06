@@ -7,8 +7,12 @@
 headder{
   width: 100%;
   padding: 20px;
-  margin: 0 auto;
+  margin: 0;
   text-align: center;
+}
+
+#name{
+  padding: 20px;
 }
 
 .nav-list{
@@ -22,9 +26,26 @@ headder{
 }
 
 .nav-list-item{
+  width: 100%;
   display: inline-block;
   padding: 15px 20px;
   margin: 0 auto;
+}
+
+#item1{
+  padding: 15px 20px;
+}
+
+#item2{
+  padding: 15px 20px;
+}
+
+#item3{
+  padding: 15px 20px;
+}
+
+#item4{
+  padding: 15px 20px;
 }
 
 .main{
