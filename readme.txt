@@ -6,3 +6,5 @@
   * HTML/CSSを学ぼう 4章
 * chapter5_exercise
   * HTML/CSSを学ぼう 5章
+*chapter6_exercise
+  * HTML/CSSを学ぼう 6章
