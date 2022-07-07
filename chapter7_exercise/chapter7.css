@@ -19,10 +19,9 @@ h1{
 }
 
 main{
-  padding: 20px 0;
+  padding: 20px 0 50px;
   color: #848282;
-  display: flex;
-  justify-content: center;
+
 }
 
 .main-item{
