@@ -5,15 +5,61 @@
 }
 
 main{
-  width: 100%;
-  padding:50px;
+  padding:50px 0 0;
   margin: 0;
 }
 
 .chapter8-text{
+  width: 960px;
   padding: 20px;
+  margin: auto;
 }
 
 .chapter8-text:nth-child(odd){
   background-color: #dcdcdc;
+}
+
+.chapter8-imagebox{
+  width: 960px;
+  margin: 0 auto;
+  padding: 50px 0;
+  display: flex;
+  flex-wrap:wrap;
+}
+
+.chapter8-image{
+  width: 30%;
+  height: 200px;
+  background-color: yellow;
+  margin: 0 5% 40px 0;
+}
+
+.chapter8-image:nth-child(1){
+  background-color: orange;
+}
+
+.chapter8-image:nth-child(3){
+  margin-right: 0;
+}
+
+.chapter8-image:nth-child(5){
+  background-color: orange;
+}
+
+.chapter8-image:nth-child(6){
+  margin-right: 0;
+}
+
+.chapter8-image:nth-child(7){
+  margin-bottom: 0;
+}
+
+.chapter8-image:nth-child(8){
+  margin-bottom: 0;
+}
+
+.chapter8-image:nth-child(9){
+  background-color: orange;
+  margin-right: 0;
+  margin-bottom: 0;
 }
