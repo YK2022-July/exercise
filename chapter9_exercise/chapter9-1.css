@@ -4,6 +4,13 @@
   box-sizing: border-box;
 }
 
-.fa-brand{
+.position i{
   font-size: 32px;
 }
+
+.position{
+  position: absolute;
+  right: 40px;
+  top: 100px;
+}
+
