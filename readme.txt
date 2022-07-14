@@ -10,3 +10,9 @@
   * HTML/CSSを学ぼう 6章
 * chapter7_exercise
   * HTML/CSSを学ぼう 7章
+* chapter8_exercise
+  * HTML/CSSを学ぼう 8章
+* chapter9_exercise
+  * HTML/CSSを学ぼう 9章
+  　※演習問題1(9-1)
+  　　演習問題2(9-2)
