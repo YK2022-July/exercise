@@ -1,0 +1,24 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+header{
+  width: 100%;
+  background-color: #ff00ff;
+  display: flex;
+  padding: 30px 20px;
+  justify-content: flex-end;
+}
+
+.header-box{
+  flex-basis: 140px;
+  height: 70px;
+  background-color: #dda0dd;
+  margin: 0 10px;
+}
+
+.header-box:first-child{
+  margin-right: auto;
+}
