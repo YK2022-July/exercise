@@ -23,7 +23,33 @@ header{
   margin-right: auto;
 }
 
+main{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
 
+.main-box1{
+  width: 300px;
+  background-color: #d8ffb6;
+}
+
+.main-box2{
+  max-width: 700px;
+  flex-grow: 1;
+  background-color: #00b522;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 20px;
+}
+
+.main-box3{
+  flex-basis: 200px;
+  height: 130px;
+  margin: 10px;
+  background-color: #fff75a;
+}
 
 footer{
   width: 100%;
