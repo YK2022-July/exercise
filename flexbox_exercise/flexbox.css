@@ -15,10 +15,30 @@ header{
 .header-box{
   flex-basis: 140px;
   height: 70px;
-  background-color: #dda0dd;
+  background-color: #fbb3ff;
   margin: 0 10px;
 }
 
 .header-box:first-child{
   margin-right: auto;
+}
+
+
+
+footer{
+  width: 100%;
+  background-color: #54a4fc;
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.footer-box{
+  flex-basis: 45%;
+  max-width: 600px;
+  height: 40px;
+  background-color: #b6e7ff;
+  margin: 10px;
+
 }
