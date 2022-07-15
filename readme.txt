@@ -16,3 +16,5 @@
   * HTML/CSSを学ぼう 9章
   　※演習問題1(9-1)
   　　演習問題2(9-2)
+* flexbox_exercise
+  * HTML/CSSを学ぼう -Flexbox(Flexレイアウト)を学ぼう
