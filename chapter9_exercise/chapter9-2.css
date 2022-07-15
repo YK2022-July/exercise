@@ -14,14 +14,25 @@ main{
   width: 100%;
 }
 
+h3{
+  padding: 15px 0 5px;
+}
+
 .main-contents{
   width: 960px;
   padding: 50px 0;
+  margin: auto;
+  display: flex;
 }
 
 .main-box{
   width: 300px;
   background-color: #EEEEEE;
+  margin-right: 30px;
+}
+
+.main-box:last-child{
+  margin-right: 0;
 }
 
 .main-image1{
@@ -30,6 +41,7 @@ main{
   background-image: url(img/flow01.png);
   background-size: cover;
   background-position: bottom;
+  margin: 10px 10px 0 10px;
 }
 
 .main-image2{
@@ -38,6 +50,7 @@ main{
   background-image: url(img/flow02.png);
   background-size: cover;
   background-position: bottom;
+  margin: 10px 10px 0 10px;
 }
 
 .main-image3{
@@ -46,6 +59,20 @@ main{
   background-image: url(img/flow03.png);
   background-size: cover;
   background-position: bottom;
+  margin: 10px 10px 0 10px;
+}
+
+.main-section{
+  position: absolute;
+  top: 160px;
+}
+
+.main-flow{
+  width: 45px;
+  height: 30px;
+  background-color: #FF9A4B;
+  color: white;
+  text-align: center;
 }
 
 footer{
