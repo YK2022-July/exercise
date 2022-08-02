@@ -1,7 +1,7 @@
 ##「exercise」はDMM WEBCAMPのカリキュラム"HTML/CSSを学ぼう"以降の課題作成用リポジトリ
 * chapter2_exercise
   * HTML/CSSを学ぼう 2章
-* chapter3の課題は「box」リポジトリにて実施
+* chapter3の課題は「box」リポジトリにて実施 ⇒2022/08/02に"chapter3_exercise"として追加
 * chapter4_exercise
   * HTML/CSSを学ぼう 4章
 * chapter5_exercise
